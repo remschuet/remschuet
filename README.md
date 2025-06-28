@@ -35,14 +35,6 @@
 > Full-stack recipe management app for professional kitchens.  
 > Built with **Next.js**, **Tailwind CSS**, **Prisma**, and **PostgreSQL**.  
 
-### 🧟 [Survivor of Z-War](https://www.linkedin.com/posts/remi-chuet_python-game-2d-activity-6965052399908478977-EnAj)
-> Pygame zombie survival game coded in Python with Tkinter UI.
-
-### 🗺️ [Adventure Game](https://www.linkedin.com/posts/remi-chuet_java-programmer-game-activity-7051226067214163968-QVRO)
-> Java Swing-based adventure game with A\* enemy pathfinding and inventory system.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**  
