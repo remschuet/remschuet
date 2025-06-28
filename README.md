@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/remi-chuet" target="_blank">🔗 LinkedIn</a> • 
-  <a href="#projects">🧪 Projects</a> • 
-  <a href="#tech-stack">🛠️ Tech Stack</a>
+  <a href="https://www.vocal-notes.com">🧪 Vocal-Notes</a>
 </p>
 
 ---
