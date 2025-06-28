@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-username" width="120" style="border-radius: 50%" alt="Profile picture">
-</p>
-
 <h1 align="center">Hi, I'm Rémi Chuet 👋</h1>
 
 <p align="center">
